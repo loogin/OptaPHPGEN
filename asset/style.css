@@ -1,0 +1,12 @@
+/*Iconos*/
+
+.icon-folder-o:before {
+    content: "\e600";
+	display: none !important;
+}
+
+.alert-warning {
+    background-color: #635852 !important;
+    border-color: transparent;
+    color: white;
+}
